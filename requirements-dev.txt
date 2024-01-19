@@ -1,6 +1,6 @@
 # Dev tools
 jupyter==1.0.0
-jupyterlab==3.6.1
+jupyterlab==3.6.7
 
 # Build tools
 wheel==0.38.4
